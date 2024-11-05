@@ -56,10 +56,10 @@ Paramètres :
 
 ## Contact Us
 
-• [Email Us] (help@drylead.agency)
-• [Follow us on Linkedin](https://www.linkedin.com/company/drylead)
-• [Follow us on Instagram](https://www.instagram.com/drylead/)
-• [Follow us on Facebook](https://facebook.com/drylead/)
+- Email Us: help@drylead.agency
+- [Follow us on Linkedin](https://www.linkedin.com/company/drylead)
+- [Follow us on Instagram](https://www.instagram.com/drylead/)
+- [Follow us on Facebook](https://facebook.com/drylead/)
 
 ## License
 
