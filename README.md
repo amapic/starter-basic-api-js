@@ -37,29 +37,29 @@ Pour installer le projet, assurez-vous d'avoir Node.js installé sur votre machi
 
 GET /
 
-    - Retourne un message de bienvenue.
-    - Réponse : hello world
+    • Retourne un message de bienvenue.
+    • Réponse : hello world
 
 GET /items
 
-    - Retourne la liste de tous les éléments présents dans le fichier datas.json.
-    - Réponse : Liste des éléments ou message d’erreur si aucun élément n’est trouvé.
+    • Retourne la liste de tous les éléments présents dans le fichier datas.json.
+    • Réponse : Liste des éléments ou message d’erreur si aucun élément n’est trouvé.
 
 GET /items/:id
 
-    - Retourne un élément spécifique par son identifiant.
+    • Retourne un élément spécifique par son identifiant.
 
 Paramètres :
 
-    - id: L’identifiant numérique de l’élément à récupérer.
-    - Réponse : Détails de l’élément ou message d’erreur si l’identifiant n’est pas valide ou si aucun élément n’est trouvé.
+    • id: L’identifiant numérique de l’élément à récupérer.
+    • Réponse : Détails de l’élément ou message d’erreur si l’identifiant n’est pas valide ou si aucun élément n’est trouvé.
 
 ## Contact Us
 
-- Email Us: help@drylead.agency
-- [Follow us on Linkedin](https://www.linkedin.com/company/drylead)
-- [Follow us on Instagram](https://www.instagram.com/drylead/)
-- [Follow us on Facebook](https://facebook.com/drylead/)
+    • [Email Us] (help@drylead.agency)
+    • [Follow us on Linkedin](https://www.linkedin.com/company/drylead)
+    • [Follow us on Instagram](https://www.instagram.com/drylead/)
+    • [Follow us on Facebook](https://facebook.com/drylead/)
 
 ## License
 
@@ -67,5 +67,5 @@ Ce projet est sous la licence ISC. Consultez le fichier LICENSE pour plus de dé
 
 ## Remarques
 
-    •	Assurez-vous que le fichier datas.json est présent dans le répertoire racine du projet.
-    •	Pour toute question ou suggestion, n’hésitez pas à envoyer un mail `help@drylead.agency`
+    • Assurez-vous que le fichier datas.json est présent dans le répertoire racine du projet.
+    • Pour toute question ou suggestion, n’hésitez pas à envoyer un mail `help@drylead.agency`
